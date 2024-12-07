@@ -21,6 +21,7 @@ Aplikasi **SPP-Ku** adalah sebuah aplikasi berbasis desktop yang dibangun menggu
 ## Instalasi
 
 1. Pastikan Anda telah menginstal **.NET Framework 4.8** atau versi lebih baru.
+   **Link Download NET Framework 4.8** : https://dotnet.microsoft.com/id-id/download/dotnet-framework/net48
 2. Pastikan aplikasi **XAMPP** telah terinstal di PC/Laptop
 
 ## Download
