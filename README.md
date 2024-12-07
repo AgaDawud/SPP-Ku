@@ -21,8 +21,15 @@ Aplikasi **SPP-Ku** adalah sebuah aplikasi berbasis desktop yang dibangun menggu
 ## Instalasi
 
 1. Pastikan Anda telah menginstal **.NET Framework 4.8** atau versi lebih baru.
-2. Jika belum berinstal NET 4.8. Download di link ini : **https://dotnet.microsoft.com/id-id/download/dotnet-framework/net48**
-3. Pastikan aplikasi **XAMPP** telah terinstal di PC/Laptop
+2. Jika belum terinstal NET 4.8. Download di link ini : **https://dotnet.microsoft.com/id-id/download/dotnet-framework/net48**
+3. Pastikan aplikasi **XAMPP** telah terinstal di PC/Laptop. Jika belum silahkan download di sini : **https://www.apachefriends.org/download.html**
 
 ## Download
 link : **https://drive.google.com/file/d/1-pIJSdAuK31uFSsMTolCVcC4GPHqUJMj/view?usp=drive_link**
+
+## Kontak
+Untuk pertanyaan atau masukan, silakan hubungi:
+
+- Nama: [Dawud Adinaga]
+- Instagram: [@xDawud_](https://www.instagram.com/dawud_adinaga/?next=%2F)
+- Discord: [xdawud_]
