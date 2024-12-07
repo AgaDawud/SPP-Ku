@@ -10,7 +10,7 @@ Aplikasi **SPP-Ku** adalah sebuah aplikasi berbasis desktop yang dibangun menggu
 - **Antarmuka Pengguna yang Intuitif**: Desain yang sederhana dan mudah digunakan.
 
 ## Use Case Diagram Aplikasi SPP-Ku
-![Logo SPP-Ku](https://drive.google.com/file/d/1s6RTPRB1ie_qdciNDiDneOAS3wD-pceq/view?usp=sharing)
+![Logo SPP-Ku](https://github.com/AgaDawud/SPP-Ku/blob/main/UCD%20SPP-Ku-1.png)
 ## Teknologi yang Digunakan
 
 - **Bahasa Pemrograman**: C#
