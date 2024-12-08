@@ -4,7 +4,7 @@ Aplikasi **SPP-Ku** adalah sebuah aplikasi berbasis desktop yang dibangun menggu
 
 ## Fitur
 - **Memiliki dua aktor** : Admin dan Pegawai.
-- **Manajemen Data Siswa, Pegawai, Kelas, SPP**: Menambah, mengedit, dan menghapus data siswa.
+- **Manajemen Data Siswa, Pegawai, Kelas, SPP**: Menambah, mengedit, dan menghapus data.
 - **Transaksi Pembayaran SPP**: Menginput transaksi pembayaran SPP dari setiap siswa.
 - **Filter Pencarian**: Mempermudah pencarian data berdasarkan nama siswa, kelas, atau pembayaran.
 - **Antarmuka Pengguna yang Intuitif**: Desain yang sederhana dan mudah digunakan.
